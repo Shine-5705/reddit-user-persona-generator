@@ -54,7 +54,7 @@ Use your actual Reddit username in the user agent for best results.
 
 Open terminal and run:
 
-'''bash
+```bash
 python generate_persona.py
 ```
 Then when prompted:
