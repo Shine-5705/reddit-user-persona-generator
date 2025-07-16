@@ -34,7 +34,7 @@ Install requirements:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 Reddit API Setup
 Go to: https://www.reddit.com/prefs/apps
@@ -56,7 +56,7 @@ Open terminal and run:
 
 '''bash
 python generate_persona.py
-
+```
 Then when prompted:
 🔗 Enter Reddit user profile URL: https://www.reddit.com/user/spez/
 
